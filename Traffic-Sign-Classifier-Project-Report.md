@@ -106,9 +106,9 @@ To train the model, I used
 ![alt text][image6]
 
 My final model results were:
-* training set accuracy of 0.992
-* validation set accuracy of 0.942 
-* test set accuracy of 0.932
+* training set accuracy of 0.997
+* validation set accuracy of 0.955
+* test set accuracy of 0.939
 
 If an iterative approach was chosen:
 * What was the first architecture that was tried and why was it chosen?
